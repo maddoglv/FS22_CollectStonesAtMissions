@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+<version>1.0.0.0</version>
+<author>MaDDogLV</author>
+
+    <title>
+        <en>Collect Stones At Missions</en>
+        <lv>Vākt Akmeņus Misijās</lv>
+    </title>
+
+    <description>
+        <en><![CDATA[Allows to collect stones of the contract fields with stone picker.]]></en>
+        <lv><![CDATA[Atļauj savākt akmeņus misijas laukos ar akmeņ savācēju.]]></lv>
+    </description>
+
+    <multiplayer supported="true" />
+    <iconFilename>modIcon.dds</iconFilename>
+    <extraSourceFiles>
+        <sourceFile filename="CollectStonesAtMissions.lua" />
+    </extraSourceFiles>
+</modDesc>
